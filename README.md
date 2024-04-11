@@ -22,15 +22,7 @@ To start using SecureNet Navigator, simply follow these steps:
 
 ## Contributing
 
-Contributions to SecureNet Navigator are welcome! Whether it's bug fixes, feature enhancements, or new ideas, we appreciate any contributions from the community. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## Support
-
-For any inquiries or assistance, feel free to reach out to our support team at support@securenetnavigator.com.
-
-## License
-
-SecureNet Navigator is licensed under the [MIT License](LICENSE).
+Contributions to SecureNet Navigator are welcome! Whether it's bug fixes, feature enhancements, or new ideas, we appreciate any contributions from the community. 
 
 ## Disclaimer
 
