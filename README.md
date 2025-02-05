@@ -16,7 +16,7 @@ SecureNet Navigator is an advanced website that employs state-of-the-art machine
 
 To start using SecureNet Navigator, simply follow these steps:
 
-1. Sign up for an account on [SecureNet Navigator]("https://securenet-naviagtor.netlify.app/").
+1. Sign up for an account on [SecureNet Navigator](https://securenet-naviagtor.netlify.app/).
 2. Access the dashboard and begin scanning URLs immediately.
 3. Stay protected with real-time alerts and comprehensive threat detection.
 
