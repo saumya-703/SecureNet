@@ -17,7 +17,7 @@ body {
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #ffffff9a;
+    background-color: #ffffffbb;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -38,15 +38,15 @@ h1 {
 }
 
 input[type="text"] {
-    width: calc(100% - 140px);
-    padding: 10px;
+    width: calc(100% - 200px);
+    padding: 15px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
 
 button {
-    padding: 10px 20px;
+    padding: 15px 20px;
     background-color: #007bff;
     color: #fff;
     border: none;
@@ -72,8 +72,6 @@ button:hover {
     max-width: 50%;
     border-radius: 10px;
 }
-
-
 .footer {
     background-color: #e6e6e656;
     color: #000000;
